@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="header">
-        <h1>CISC 322 GROUP 1</h1>
+        <h1>DesignMatrix</h1>
       </div>
       <div className="names-list">
         <h2>Group Members</h2>
@@ -21,7 +21,6 @@ function App() {
           <li>Adwait Srivastava</li>
         </ul>
       </div>
-      
     </>
   )
 }
