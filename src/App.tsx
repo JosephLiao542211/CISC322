@@ -27,6 +27,9 @@ function App() {
                     <a href="https://drive.google.com/file/d/1ewsV05CXLbGEVvs1pEE5m2kRetZgBHD8/view">A2 Presentation Video</a>
                     <a href="https://docs.google.com/document/d/10EMA7B5tgYHIZYKPGK92F6dqqlSFAkpLG9jWpTQ4uqw/edit?usp=sharing">A2 Report</a>
                     <a href="https://drive.google.com/file/d/1kSixV50S-qH7K1cWUT0euui_zDvuattn/view?usp=sharing">A2 Presentation Slides</a>
+                    <a href="https://youtu.be/_oyhmk2_DRw">A3 Presentation Video</a>
+                    <a href="https://docs.google.com/document/d/129h59RpGO1e3U0DIcrdfQluKJjLlIc-ruObk9mz_gBM/edit?usp=sharing">A3 Report</a>
+                    <a href="https://drive.google.com/file/d/1BA8r7uOQ7_kGo3CHacYRcAPbeC2KOUlc/view?usp=sharing">A3 Presentation Slides</a>
                 </div>
             </div>
         </>
